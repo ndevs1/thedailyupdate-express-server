@@ -7,32 +7,136 @@ const jsonData = {
     "menu": [
         {
             "id": 1,
-            "name": "Home",
-            "slug": "home",
-            "submenus": []
+            "name": "সর্বশেষ",
+            "slug": "latest",
+            "color": "#300449",
+            "subMenuItem": []
         },
         {
             "id": 2,
-            "name": "News",
-            "slug": "news",
-            "submenus": [
+            "name": "রাজনীতি",
+            "slug": "politics",
+            "color": "#E66A1F",
+            "subMenuItem": [
                 {
                     "id": 3,
-                    "name": "Politics",
-                    "slug": "politics"
+                    "name": "দেশ",
+                    "slug": "desh"
                 },
                 {
                     "id": 4,
-                    "name": "Business",
-                    "slug": "business"
+                    "name": "বিদেশ",
+                    "slug": "abroad"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "বাংলাদেশ",
+            "slug": "bangladesh",
+            "color": "#FDD02B",
+            "subMenuItem": [
+                {
+                    "id": 5,
+                    "name": "রাজধানী",
+                    "slug": "capital"
+                },
+                {
+                    "id": 6,
+                    "name": "জেলা",
+                    "slug": "district"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "অপরাধ",
+            "slug": "crime",
+            "color": "#E42A69",
+            "subMenuItem": [
+                {
+                    "id": 7,
+                    "name": "Menu 1",
+                    "slug": "menu-1"
+                },
+                {
+                    "id": 8,
+                    "name": "Menu 2",
+                    "slug": "menu-2"
                 }
             ]
         },
         {
             "id": 5,
-            "name": "Sports",
+            "name": "বিশ্ব",
+            "slug": "world",
+            "color": "#27272F",
+            "subMenuItem": [
+                {
+                    "id": 9,
+                    "name": "Menu 1",
+                    "slug": "menu-1"
+                },
+                {
+                    "id": 10,
+                    "name": "Menu 2",
+                    "slug": "menu-2"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "বাণিজ্য",
+            "slug": "commerce",
+            "color": "#3CB64F",
+            "subMenuItem": [
+                {
+                    "id": 11,
+                    "name": "Menu 1",
+                    "slug": "menu-1"
+                },
+                {
+                    "id": 12,
+                    "name": "Menu 2",
+                    "slug": "menu-2"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "খেলা",
             "slug": "sports",
-            "submenus": []
+            "color": "#FDC132",
+            "subMenuItem": [
+                {
+                    "id": 13,
+                    "name": "Menu 1",
+                    "slug": "menu-1"
+                },
+                {
+                    "id": 14,
+                    "name": "Menu 2",
+                    "slug": "menu-2"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "বিনোদন",
+            "slug": "entertainment",
+            "color": "#EE7677",
+            "subMenuItem": [
+                {
+                    "id": 15,
+                    "name": "Menu 1",
+                    "slug": "menu-1"
+                },
+                {
+                    "id": 16,
+                    "name": "Menu 2",
+                    "slug": "menu-2"
+                }
+            ]
         }
     ],
     "newsCategories": [
