@@ -1,0 +1,210 @@
+{
+    "politics": [
+        {
+            "id": 1,
+            "image": "/news/1.jpg",
+            "title": "Political Summit Addresses Global Issues",
+            "shortDescription": "World leaders discuss pressing global issues at a high-level political summit.",
+            "category": "politics",
+            "author": "admin"
+        },
+        {
+            "id": 2,
+            "image": "/news/2.jpg",
+            "title": "New Legislation Passes in Parliament",
+            "shortDescription": "Parliament approves a series of new laws impacting various aspects of society.",
+            "category": "politics",
+            "author": "admin"
+        },
+        {
+            "id": 3,
+            "image": "/news/3.jpg",
+            "title": "Election Results Announced",
+            "shortDescription": "The election results are in, revealing the new political landscape in the nation.",
+            "category": "politics",
+            "author": "admin"
+        }
+    ],
+    "bangladesh": [
+        {
+            "id": 4,
+            "image": "/news/4.jpg",
+            "title": "Bangladesh Celebrates Independence Day",
+            "shortDescription": "The nation commemorates its independence with grand celebrations and events.",
+            "category": "bangladesh",
+            "author": "admin"
+        },
+        {
+            "id": 5,
+            "image": "/news/5.jpg",
+            "title": "New Healthcare Initiatives in Bangladesh",
+            "shortDescription": "Government launches healthcare initiatives to improve public health in Bangladesh.",
+            "category": "bangladesh",
+            "author": "admin"
+        },
+        {
+            "id": 6,
+            "image": "/news/6.jpg",
+            "title": "Economic Growth in Bangladesh",
+            "shortDescription": "Bangladesh experiences remarkable economic growth, attracting international attention.",
+            "category": "bangladesh",
+            "author": "admin"
+        }
+    ],
+    "crime": [
+        {
+            "id": 7,
+            "image": "/news/7.jpg",
+            "title": "High-Profile Heist Shocks the City",
+            "shortDescription": "A daring heist involving valuable artifacts leaves the city in disbelief.",
+            "category": "crime",
+            "author": "admin"
+        },
+        {
+            "id": 8,
+            "image": "/news/8.jpg",
+            "title": "New Cybersecurity Measures Implemented",
+            "shortDescription": "Authorities bolster cybersecurity measures to combat rising cybercrime threats.",
+            "category": "crime",
+            "author": "admin"
+        },
+        {
+            "id": 9,
+            "image": "/news/9.jpg",
+            "title": "Breakthrough in Unsolved Case",
+            "shortDescription": "Law enforcement makes a breakthrough in a long-standing unsolved criminal case.",
+            "category": "crime",
+            "author": "admin"
+        }
+    ],
+    "world": [
+        {
+            "id": 10,
+            "image": "/news/10.jpg",
+            "title": "International Peace Accords Signed",
+            "shortDescription": "Nations come together to sign peace accords, promising a more peaceful world.",
+            "category": "world",
+            "author": "admin"
+        },
+        {
+            "id": 11,
+            "image": "/news/11.jpg",
+            "title": "Global Environmental Summit Held",
+            "shortDescription": "World leaders converge to address environmental concerns and climate change.",
+            "category": "world",
+            "author": "admin"
+        },
+        {
+            "id": 12,
+            "image": "/news/12.jpg",
+            "title": "Humanitarian Aid Reaches War-Torn Regions",
+            "shortDescription": "Humanitarian organizations provide essential aid to conflict-affected regions.",
+            "category": "world",
+            "author": "admin"
+        }
+    ],
+    "commerce": [
+        {
+            "id": 13,
+            "image": "/news/13.jpg",
+            "title": "Global Economic Trends Report",
+            "shortDescription": "Economists release a comprehensive report on global economic trends and forecasts.",
+            "category": "commerce",
+            "author": "admin"
+        },
+        {
+            "id": 14,
+            "image": "/news/14.jpg",
+            "title": "E-commerce Continues to Thrive",
+            "shortDescription": "The e-commerce sector experiences sustained growth and transformation.",
+            "category": "commerce",
+            "author": "admin"
+        },
+        {
+            "id": 15,
+            "image": "/news/15.jpg",
+            "title": "Trade Agreements Boost International Commerce",
+            "shortDescription": "Trade agreements foster international commerce and economic cooperation.",
+            "category": "commerce",
+            "author": "admin"
+        }
+    ],
+    "sports": [
+        {
+            "id": 16,
+            "image": "/news/16.jpg",
+            "title": "Upcoming Olympics Promise Excitement",
+            "shortDescription": "The upcoming Olympic Games are expected to deliver thrilling sporting action.",
+            "category": "sports",
+            "author": "admin"
+        },
+        {
+            "id": 17,
+            "image": "/news/17.jpg",
+            "title": "Local Sports Team Triumphs in Championship",
+            "shortDescription": "The local sports team secures victory in a national championship competition.",
+            "category": "sports",
+            "author": "admin"
+        },
+        {
+            "id": 18,
+            "image": "/news/18.jpg",
+            "title": "World Cup Finals: A Clash of Titans",
+            "shortDescription": "The World Cup finals feature a showdown between two powerhouse teams.",
+            "category": "sports",
+            "author": "admin"
+        }
+    ],
+    "entertainment": [
+        {
+            "id": 19,
+            "image": "/news/19.jpg",
+            "title": "New Blockbuster Movie Premieres",
+            "shortDescription": "A highly anticipated blockbuster film premieres, captivating audiences worldwide.",
+            "category": "entertainment",
+            "author": "admin"
+        },
+        {
+            "id": 20,
+            "image": "/news/20.jpg",
+            "title": "Music Sensation's World Tour Announced",
+            "shortDescription": "A popular music sensation announces a world tour with multiple tour dates.",
+            "category": "entertainment",
+            "author": "admin"
+        },
+        {
+            "id": 21,
+            "image": "/news/21.jpg",
+            "title": "Celebrity Awards Gala Hosted in Hollywood",
+            "shortDescription": "Hollywood's elite gather for a glamorous awards gala honoring top celebrities.",
+            "category": "entertainment",
+            "author": "admin"
+        }
+    ],
+    "latest": [
+        {
+            "id": 22,
+            "image": "/news/22.jpg",
+            "title": "Global Leaders Convene to Tackle Urgent World Issues",
+            "shortDescription": "Prominent political figures from around the world gather to address critical global challenges at a high-level summit.",
+            "category": "politics",
+            "author": "admin"
+        },
+        {
+            "id": 23,
+            "image": "/news/23.jpg",
+            "title": "Parliament Passes New Legislation with Far-Reaching Impact",
+            "shortDescription": "The legislative body approves a comprehensive set of new laws that will have a significant impact on various aspects of society.",
+            "category": "politics",
+            "author": "admin"
+        },
+        {
+            "id": 24,
+            "image": "/news/24.jpg",
+            "title": "Election Results Unveil the Nation's New Political Landscape",
+            "shortDescription": "The eagerly anticipated election results are finally announced, providing insight into the nation's evolving political scene.",
+            "category": "politics",
+            "author": "admin"
+        }
+    ]
+}

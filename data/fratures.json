@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "category": "বাণিজ্য",
+        "title": "আয়কর রিটার্ন জমা নভেম্বরের মধ্যে",
+        "author": "admin",
+        "image": " news/3.jpg",
+        "catbgColor": "red"
+    },
+    {
+        "id": 2,
+        "category": "Technology",
+        "title": "Latest Innovations in AI",
+        "author": "admin",
+        "image": " news/4.jpg",
+        "catbgColor": "#F4C501"
+    },
+    {
+        "id": 3,
+        "category": "Sports",
+        "title": "World Cup 2023: Team Preparations",
+        "author": "Mike Johnson",
+        "image": " news/5.jpg",
+        "catbgColor": "#F4C501"
+    },
+    {
+        "id": 4,
+        "category": "Entertainment",
+        "title": "Hollywood's Upcoming Blockbusters",
+        "author": "Alice Wilson",
+        "image": " news/6.jpg",
+        "catbgColor": "#F4C501"
+    },
+    {
+        "id": 5,
+        "category": "Health",
+        "title": "New Discoveries in Medical Science",
+        "author": "Chris Brown",
+        "image": " news/7.jpg",
+        "catbgColor": "#F4C501"
+    },
+    {
+        "id": 6,
+        "category": "Science",
+        "title": "Space Exploration Breakthroughs",
+        "author": "Emily Davis",
+        "image": " news/8.jpg",
+        "catbgColor": "#F4C501"
+    },
+    {
+        "id": 7,
+        "category": "Travel",
+        "title": "Exotic Destinations for 2023",
+        "author": "Sarah Turner",
+        "image": " news/9.jpg",
+        "catbgColor": "#F4C501"
+    }
+]
