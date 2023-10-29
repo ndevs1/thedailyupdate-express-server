@@ -567,326 +567,324 @@ const jsonData = {
             }
         ]
     },
-    "newsByCategory": [
-        {
-            "politics": [
-                {
-                    "id": 1,
-                    "title": "Popular News Title 1",
-                    "shortDescription": "Short description for the popular news article 1",
-                    "longDescription": "Detailed description for the popular news article 1",
-                    "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
-                    "timeToRead": "5 min",
-                    "color": "red",
-                    "category": "Politics",
-                    "categorySlug": "politics",
-                    "author": "John Doe"
-                },
-                {
-                    "id": 2,
-                    "title": "Popular News Title 2",
-                    "shortDescription": "Short description for the popular news article 2",
-                    "longDescription": "Detailed description for the popular news article 2",
-                    "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
-                    "timeToRead": "7 min",
-                    "color": "red",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 3,
-                    "title": "Popular News Title 3",
-                    "shortDescription": "Short description for the popular news article 3",
-                    "longDescription": "Detailed description for the popular news article 3",
-                    "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
-                    "timeToRead": "7 min",
-                    "color": "red",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 4,
-                    "title": "Popular News Title 4",
-                    "shortDescription": "Short description for the popular news article 4",
-                    "longDescription": "Detailed description for the popular news article 4",
-                    "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
-                    "timeToRead": "7 min",
-                    "color": "red",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                }
-            ],
-            "bangladesh": [
-                {
-                    "id": 1,
-                    "title": "Popular News Title 1",
-                    "shortDescription": "Short description for the popular news article 1",
-                    "longDescription": "Detailed description for the popular news article 1",
-                    "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
-                    "timeToRead": "5 min",
-                    "color": "green",
-                    "category": "Politics",
-                    "categorySlug": "politics",
-                    "author": "John Doe"
-                },
-                {
-                    "id": 2,
-                    "title": "Popular News Title 2",
-                    "shortDescription": "Short description for the popular news article 2",
-                    "longDescription": "Detailed description for the popular news article 2",
-                    "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 3,
-                    "title": "Popular News Title 3",
-                    "shortDescription": "Short description for the popular news article 3",
-                    "longDescription": "Detailed description for the popular news article 3",
-                    "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 4,
-                    "title": "Popular News Title 4",
-                    "shortDescription": "Short description for the popular news article 4",
-                    "longDescription": "Detailed description for the popular news article 4",
-                    "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                }
-            ],
-            "crime": [
-                {
-                    "id": 1,
-                    "title": "Popular News Title 1",
-                    "shortDescription": "Short description for the popular news article 1",
-                    "longDescription": "Detailed description for the popular news article 1",
-                    "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
-                    "timeToRead": "5 min",
-                    "color": "green",
-                    "category": "Politics",
-                    "categorySlug": "politics",
-                    "author": "John Doe"
-                }
-            ],
-            "world": [
-                {
-                    "id": 1,
-                    "title": "Popular News Title 1",
-                    "shortDescription": "Short description for the popular news article 1",
-                    "longDescription": "Detailed description for the popular news article 1",
-                    "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
-                    "timeToRead": "5 min",
-                    "color": "green",
-                    "category": "Politics",
-                    "categorySlug": "politics",
-                    "author": "John Doe"
-                },
-                {
-                    "id": 2,
-                    "title": "Popular News Title 2",
-                    "shortDescription": "Short description for the popular news article 2",
-                    "longDescription": "Detailed description for the popular news article 2",
-                    "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                }
-            ],
-            "commerce": [
-                {
-                    "id": 1,
-                    "title": "Popular News Title 1",
-                    "shortDescription": "Short description for the popular news article 1",
-                    "longDescription": "Detailed description for the popular news article 1",
-                    "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
-                    "timeToRead": "5 min",
-                    "color": "green",
-                    "category": "Politics",
-                    "categorySlug": "politics",
-                    "author": "John Doe"
-                }
-            ],
-            "sports": [
-                {
-                    "id": 1,
-                    "title": "Popular News Title 1",
-                    "shortDescription": "Short description for the popular news article 1",
-                    "longDescription": "Detailed description for the popular news article 1",
-                    "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
-                    "timeToRead": "5 min",
-                    "color": "green",
-                    "category": "Politics",
-                    "categorySlug": "politics",
-                    "author": "John Doe"
-                },
-                {
-                    "id": 2,
-                    "title": "Popular News Title 2",
-                    "shortDescription": "Short description for the popular news article 2",
-                    "longDescription": "Detailed description for the popular news article 2",
-                    "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 3,
-                    "title": "Popular News Title 3",
-                    "shortDescription": "Short description for the popular news article 3",
-                    "longDescription": "Detailed description for the popular news article 3",
-                    "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 4,
-                    "title": "Popular News Title 4",
-                    "shortDescription": "Short description for the popular news article 4",
-                    "longDescription": "Detailed description for the popular news article 4",
-                    "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                }
-            ],
-            "entertainment": [
-                {
-                    "id": 1,
-                    "title": "Popular News Title 1",
-                    "shortDescription": "Short description for the popular news article 1",
-                    "longDescription": "Detailed description for the popular news article 1",
-                    "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
-                    "timeToRead": "5 min",
-                    "color": "green",
-                    "category": "Politics",
-                    "categorySlug": "politics",
-                    "author": "John Doe"
-                },
-                {
-                    "id": 2,
-                    "title": "Popular News Title 2",
-                    "shortDescription": "Short description for the popular news article 2",
-                    "longDescription": "Detailed description for the popular news article 2",
-                    "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 3,
-                    "title": "Popular News Title 3",
-                    "shortDescription": "Short description for the popular news article 3",
-                    "longDescription": "Detailed description for the popular news article 3",
-                    "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 4,
-                    "title": "Popular News Title 4",
-                    "shortDescription": "Short description for the popular news article 4",
-                    "longDescription": "Detailed description for the popular news article 4",
-                    "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                }
-            ],
-            "latest": [
-                {
-                    "id": 1,
-                    "title": "Popular News Title 1",
-                    "shortDescription": "Short description for the popular news article 1",
-                    "longDescription": "Detailed description for the popular news article 1",
-                    "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
-                    "timeToRead": "5 min",
-                    "color": "green",
-                    "category": "Politics",
-                    "categorySlug": "politics",
-                    "author": "John Doe"
-                },
-                {
-                    "id": 2,
-                    "title": "Popular News Title 2",
-                    "shortDescription": "Short description for the popular news article 2",
-                    "longDescription": "Detailed description for the popular news article 2",
-                    "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 3,
-                    "title": "Popular News Title 3",
-                    "shortDescription": "Short description for the popular news article 3",
-                    "longDescription": "Detailed description for the popular news article 3",
-                    "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 4,
-                    "title": "Popular News Title 4",
-                    "shortDescription": "Short description for the popular news article 4",
-                    "longDescription": "Detailed description for the popular news article 4",
-                    "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                },
-                {
-                    "id": 5,
-                    "title": "Popular News Title 5",
-                    "shortDescription": "Short description for the popular news article 4",
-                    "longDescription": "Detailed description for the popular news article 4",
-                    "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
-                    "timeToRead": "7 min",
-                    "color": "green",
-                    "category": "Business",
-                    "categorySlug": "business",
-                    "author": "Jane Smith"
-                }
-            ]
-        }
-    ]
+    "newsByCategory": {
+        "politics": [
+            {
+                "id": 1,
+                "title": "Popular News Title 1",
+                "shortDescription": "Short description for the popular news article 1",
+                "longDescription": "Detailed description for the popular news article 1",
+                "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
+                "timeToRead": "5 min",
+                "color": "red",
+                "category": "Politics",
+                "categorySlug": "politics",
+                "author": "John Doe"
+            },
+            {
+                "id": 2,
+                "title": "Popular News Title 2",
+                "shortDescription": "Short description for the popular news article 2",
+                "longDescription": "Detailed description for the popular news article 2",
+                "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
+                "timeToRead": "7 min",
+                "color": "red",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 3,
+                "title": "Popular News Title 3",
+                "shortDescription": "Short description for the popular news article 3",
+                "longDescription": "Detailed description for the popular news article 3",
+                "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
+                "timeToRead": "7 min",
+                "color": "red",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 4,
+                "title": "Popular News Title 4",
+                "shortDescription": "Short description for the popular news article 4",
+                "longDescription": "Detailed description for the popular news article 4",
+                "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
+                "timeToRead": "7 min",
+                "color": "red",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            }
+        ],
+        "bangladesh": [
+            {
+                "id": 1,
+                "title": "Popular News Title 1",
+                "shortDescription": "Short description for the popular news article 1",
+                "longDescription": "Detailed description for the popular news article 1",
+                "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
+                "timeToRead": "5 min",
+                "color": "green",
+                "category": "Politics",
+                "categorySlug": "politics",
+                "author": "John Doe"
+            },
+            {
+                "id": 2,
+                "title": "Popular News Title 2",
+                "shortDescription": "Short description for the popular news article 2",
+                "longDescription": "Detailed description for the popular news article 2",
+                "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 3,
+                "title": "Popular News Title 3",
+                "shortDescription": "Short description for the popular news article 3",
+                "longDescription": "Detailed description for the popular news article 3",
+                "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 4,
+                "title": "Popular News Title 4",
+                "shortDescription": "Short description for the popular news article 4",
+                "longDescription": "Detailed description for the popular news article 4",
+                "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            }
+        ],
+        "crime": [
+            {
+                "id": 1,
+                "title": "Popular News Title 1",
+                "shortDescription": "Short description for the popular news article 1",
+                "longDescription": "Detailed description for the popular news article 1",
+                "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
+                "timeToRead": "5 min",
+                "color": "green",
+                "category": "Politics",
+                "categorySlug": "politics",
+                "author": "John Doe"
+            }
+        ],
+        "world": [
+            {
+                "id": 1,
+                "title": "Popular News Title 1",
+                "shortDescription": "Short description for the popular news article 1",
+                "longDescription": "Detailed description for the popular news article 1",
+                "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
+                "timeToRead": "5 min",
+                "color": "green",
+                "category": "Politics",
+                "categorySlug": "politics",
+                "author": "John Doe"
+            },
+            {
+                "id": 2,
+                "title": "Popular News Title 2",
+                "shortDescription": "Short description for the popular news article 2",
+                "longDescription": "Detailed description for the popular news article 2",
+                "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            }
+        ],
+        "commerce": [
+            {
+                "id": 1,
+                "title": "Popular News Title 1",
+                "shortDescription": "Short description for the popular news article 1",
+                "longDescription": "Detailed description for the popular news article 1",
+                "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
+                "timeToRead": "5 min",
+                "color": "green",
+                "category": "Politics",
+                "categorySlug": "politics",
+                "author": "John Doe"
+            }
+        ],
+        "sports": [
+            {
+                "id": 1,
+                "title": "Popular News Title 1",
+                "shortDescription": "Short description for the popular news article 1",
+                "longDescription": "Detailed description for the popular news article 1",
+                "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
+                "timeToRead": "5 min",
+                "color": "green",
+                "category": "Politics",
+                "categorySlug": "politics",
+                "author": "John Doe"
+            },
+            {
+                "id": 2,
+                "title": "Popular News Title 2",
+                "shortDescription": "Short description for the popular news article 2",
+                "longDescription": "Detailed description for the popular news article 2",
+                "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 3,
+                "title": "Popular News Title 3",
+                "shortDescription": "Short description for the popular news article 3",
+                "longDescription": "Detailed description for the popular news article 3",
+                "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 4,
+                "title": "Popular News Title 4",
+                "shortDescription": "Short description for the popular news article 4",
+                "longDescription": "Detailed description for the popular news article 4",
+                "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            }
+        ],
+        "entertainment": [
+            {
+                "id": 1,
+                "title": "Popular News Title 1",
+                "shortDescription": "Short description for the popular news article 1",
+                "longDescription": "Detailed description for the popular news article 1",
+                "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
+                "timeToRead": "5 min",
+                "color": "green",
+                "category": "Politics",
+                "categorySlug": "politics",
+                "author": "John Doe"
+            },
+            {
+                "id": 2,
+                "title": "Popular News Title 2",
+                "shortDescription": "Short description for the popular news article 2",
+                "longDescription": "Detailed description for the popular news article 2",
+                "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 3,
+                "title": "Popular News Title 3",
+                "shortDescription": "Short description for the popular news article 3",
+                "longDescription": "Detailed description for the popular news article 3",
+                "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 4,
+                "title": "Popular News Title 4",
+                "shortDescription": "Short description for the popular news article 4",
+                "longDescription": "Detailed description for the popular news article 4",
+                "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            }
+        ],
+        "latest": [
+            {
+                "id": 1,
+                "title": "Popular News Title 1",
+                "shortDescription": "Short description for the popular news article 1",
+                "longDescription": "Detailed description for the popular news article 1",
+                "image": "https://images.unsplash.com/photo-1698322281586-71da9adc8310",
+                "timeToRead": "5 min",
+                "color": "green",
+                "category": "Politics",
+                "categorySlug": "politics",
+                "author": "John Doe"
+            },
+            {
+                "id": 2,
+                "title": "Popular News Title 2",
+                "shortDescription": "Short description for the popular news article 2",
+                "longDescription": "Detailed description for the popular news article 2",
+                "image": "https://images.unsplash.com/photo-1698320602915-674e48adffd3",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 3,
+                "title": "Popular News Title 3",
+                "shortDescription": "Short description for the popular news article 3",
+                "longDescription": "Detailed description for the popular news article 3",
+                "image": "https://images.unsplash.com/photo-1698154934337-834cf9285172",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 4,
+                "title": "Popular News Title 4",
+                "shortDescription": "Short description for the popular news article 4",
+                "longDescription": "Detailed description for the popular news article 4",
+                "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            },
+            {
+                "id": 5,
+                "title": "Popular News Title 5",
+                "shortDescription": "Short description for the popular news article 4",
+                "longDescription": "Detailed description for the popular news article 4",
+                "image": "https://images.unsplash.com/photo-1698222489084-4e70447821a8",
+                "timeToRead": "7 min",
+                "color": "green",
+                "category": "Business",
+                "categorySlug": "business",
+                "author": "Jane Smith"
+            }
+        ]
+    }
 };
 
 app.use(cors());
@@ -1041,10 +1039,15 @@ app.get('/api/newsByCategory', (req, res) => {
 });
 
 // Route to get a single item by ID from newsByCategory
-app.get('/api/newsByCategory/:id', (req, res) => {
+app.get('/api/newsByCategory/politics', (req, res) => {
     const itemId = parseInt(req.params.id);
-    const item = jsonData.newsByCategory.find((news) => news.id === itemId);
-
+    console.log(jsonData.newsByCategory);
+    const item = jsonData.newsByCategory
+});
+app.get('/api/newsByCategory/politics', (req, res) => {
+    const itemId = parseInt(req.params.id);
+    console.log(jsonData.newsByCategory);
+    const item = jsonData.newsByCategory.politics;
     if (!item) {
         res.status(404).json({ error: 'Item not found' });
     } else {
@@ -1052,6 +1055,19 @@ app.get('/api/newsByCategory/:id', (req, res) => {
     }
 });
 
+
+// app.get('/api/newsByCategory/politics', (req, res) => {
+//     const itemId = parseInt(req.params.id);
+//     console.log(jsonData.newsByCategory);
+//     const item = jsonData.newsByCategory;
+//     if (!item) {
+//         res.status(404).json({ error: 'Item not found' });
+//     } else {
+//         res.json(item);
+//     }
+// });
+
+//  bangladesh crime world commerce sports entertainment latest
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
