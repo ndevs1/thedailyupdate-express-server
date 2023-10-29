@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 
 // Your JSON data
@@ -95,6 +96,14 @@ const jsonData = {
         }
     ],
     "featuresNews": [
+        {
+            "id": 1,
+            "category": "বাণিজ্য",
+            "title": "আয়কর রিটার্ন জমা নভেম্বরের মধ্যে",
+            "author": "admin",
+            "image": " news/3.jpg",
+            "catbgColor": "red"
+        },
         {
             "id": 1,
             "title": "featuresNews News Title 1",
@@ -329,6 +338,8 @@ const jsonData = {
         ]
     }
 };
+
+app.use(cors());
 
 // Route to get all data
 app.get('/api/data', (req, res) => {
