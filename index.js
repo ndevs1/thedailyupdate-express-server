@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const app = express();
+import serverless from "serverless-http";
 
 // Your JSON data
 const jsonData = {
@@ -485,6 +486,7 @@ app.get('/api/tagNews/:id', (req, res) => {
     }
 });
 
+export const handler = serverless(api);
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
